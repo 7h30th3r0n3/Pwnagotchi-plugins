@@ -25,11 +25,11 @@ Warning
 ---
 Remember to use in ethical way. 
 
-file needed : /home/pi/mini-8.txt
-and :  /home/pi/wpa-sec.cracked.potfile 
+- file needed : /home/pi/mini-8.txt
+- and :  /home/pi/wpa-sec.cracked.potfile 
 
 
-Activation of plugins : 
+- Activation of plugins : 
 
 main.plugins.display-password.enabled = true
 main.plugins.display-aircrack.enabled = true
