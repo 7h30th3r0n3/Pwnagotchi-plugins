@@ -19,3 +19,24 @@ Display if aircrack is currently running with (0) off or (1) running
 
 - pwnaget.py : 
 Python script to automatically ssh into the pwnagotchi, grab all pcap file in directory mentionned, convert it directly in a hashcat format that can be concatened in one file with *.hccapx > all.hccapx 
+
+---
+Warning
+---
+Remember to use in ethical way. 
+
+file needed :
+/home/pi/mini-8.txt
+/home/pi/wpa-sec.cracked.potfile 
+
+
+Activation of plugins : 
+
+main.plugins.display-password.enabled = true
+main.plugins.display-aircrack.enabled = true
+
+main.plugins.quickdic.enabled = true
+main.plugins.quickdic.face = "(·ω·)"
+
+main.plugins.aircrackonly.enabled = true
+main.plugins.aircrackonly.face = "(>.<)"
