@@ -26,8 +26,8 @@ Warning
 Remember to use in ethical way. 
 
 file needed :
-/home/pi/mini-8.txt
-/home/pi/wpa-sec.cracked.potfile 
+- /home/pi/mini-8.txt
+- /home/pi/wpa-sec.cracked.potfile 
 
 
 Activation of plugins : 
