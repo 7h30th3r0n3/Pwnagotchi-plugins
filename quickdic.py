@@ -15,7 +15,8 @@ Please check that these two file a present
 
 
 class QuickDic(plugins.Plugin):
-    __author__ = '@7h30th3r0n3'
+     __author__ = 'pwnagotchi [at] rossmarks [dot] uk'
+    __modified_by__ = '@7h30th3r0n3'
     __version__ = '1.0.0'
     __license__ = 'GPL3'
     __description__ = 'Run a small aircrack scan against captured handshakes and PMKID'
